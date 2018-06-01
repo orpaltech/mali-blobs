@@ -1,7 +1,0 @@
-r6p2-01rel0 um 009
-
-Build parameters:
-CONFIG=release
-VARIANT=mali400-gles-linux-wayland-drm-dma_buf-no_Werror
-TARGET_PLATFORM=default_8a
-TARGET_TOOLCHAIN=aarch64-linux-gcc
